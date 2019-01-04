@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(173, 199, 255);
+}
+aside{
+    background-color: rgb(84, 131, 244);
+    float: left;
+    height: 1105px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    margin:15px auto;
+    border:3px solid rgb(150, 173, 210);
+    border-radius:5px;
+    box-shadow:#797575 5px 5px 5px;
+}
+@font-face {
+    font-family:'ff1';
+    src:url('Roboto-Bold.ttf');
+
+}
+#cw{
+    font:bold 20px 'ff1';
+    padding-bottom: 10px;
+}
+section{
+    background-color: rgb(84, 131, 244);
+
+    margin-left: 1000px;
+    height: 350px;
+    float: none;
+    padding-top: 10px;
+    width: 1000px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+
+    margin:15px auto;
+    border:3px solid rgb(150, 173, 210);
+    border-radius:5px;
+    box-shadow:#797575 5px 5px 5px;
+}
+footer{
+    background-color: rgb(84, 131, 244);
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    margin-top: 155px;
+
+    border:3px solid rgb(150, 173, 210);
+    border-radius:5px;
+    box-shadow:#797575 5px 5px 5px;
+}
+#aside2{
+    background-color: rgb(225, 225, 225);
+    width: 300px;
+    float: right;
+    height: 1105px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    margin:15px auto;
+    border:3px solid rgb(150, 173, 210);
+    border-radius:5px;
+    box-shadow:#797575 5px 5px 5px;
+}
+
+#oso1{
+    margin-left: 100px;
+    width: 1000px;
+    height: 600px;
+
+}
