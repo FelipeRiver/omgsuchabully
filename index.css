@@ -1,0 +1,34 @@
+@font-face{
+	font-family: 'Roboto';
+	src:url(Roboto-Bold.ttf)
+}
+#Principal{
+	/*background-color: #837DD1;*/
+	width: 850.1px;
+	margin: auto;
+	padding: -5px;
+	margin-top: 40px;
+	border: 3px solid;
+	border-radius: 5px ;
+	box-shadow:#999 5px 5px 10px;
+	background: -moz-linear-gradient(left,#5D5898,#837DD1);
+	background: -webkit-linear-gradient(left,#5D5898,#837DD1);
+	/*-moz-transform:scale(1,-1);*/
+	/*-moz-transform:rotate(360deg);*/
+	/*-moz-transform:skew(20deg);*/
+	-moz-transition: -moz-transform 0.2s ease 0.001s;
+}
+body{
+	background-color: #5D5898;
+}
+#Principal:hover{
+	-moz-transform:scale(1.1);
+}
+#Titulo{
+	text-align: center;
+	margin: 5px;
+	font-family: 'Roboto';
+	font-size: 2em;
+	font-weight: bold;
+	text-shadow: #fff 0.1px 0.1px 10px;
+}
